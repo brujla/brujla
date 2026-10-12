@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**brujla/brujla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Put your film image in the repo as assets/film.jpg (or change the path) -->
+ 
+<img width="1920" height="865" alt="JHB1POR4" src="https://github.com/user-attachments/assets/c8e074c2-6652-46d0-bf73-7cba42d96ce2" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+```bash
+README@brujla:~$ cat now.txt
+[studying]  red team basics, forensics, algorithms
+[learning]  PHP, SQL and JavaScript
+```
+
+<div align="center"> 
+
+
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+</div>
